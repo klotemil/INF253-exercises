@@ -8,14 +8,15 @@ body {
   width: 92%;
   max-width: 800px;
   margin: 0 auto;
+  padding: 12px 20px;
 }
 
 h1, h2 {
-  color: #26547c;
+  color: #0b4f6c;
 }
 
 a {
-  color: #ef476f;
+  color: #7b0d1e;
 }
 
 img {
