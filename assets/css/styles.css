@@ -59,3 +59,7 @@ ul {
 p {
   line-height: 1.4em;
 }
+
+header {
+  background-image: url(..images/criss-cross.zip);
+}
