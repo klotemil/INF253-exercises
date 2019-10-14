@@ -39,6 +39,7 @@ blockquote {
 
 .caption {
   font-style: italic;
+  text-align: center;
 }
 
 a {
