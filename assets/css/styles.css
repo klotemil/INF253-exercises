@@ -61,5 +61,5 @@ p {
 }
 
 header {
-  background-image: url(../images/criss-cross.png);
+  background-image: url("../images/criss-cross.png");
 }
