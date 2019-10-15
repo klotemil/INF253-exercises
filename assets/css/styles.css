@@ -5,7 +5,7 @@ body {
 }
 
 .wrapper {
-  background-color: #ffffff;
+  background: #ffffff;
   width: 92%;
   max-width: 800px;
   margin: 0 auto;
@@ -61,5 +61,5 @@ p {
 }
 
 header {
-  background-color: url("../images/criss-cross.png");
+
 }
