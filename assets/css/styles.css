@@ -61,5 +61,5 @@ p {
 }
 
 header {
-  background-color: url(../images/criss-cross.png);
+  background-color: url("../images/criss-cross.png");
 }
