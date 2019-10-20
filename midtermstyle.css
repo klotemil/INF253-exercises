@@ -1,6 +1,7 @@
 body {
   text-align: center;
   background-color: #d10000;
+  color: #152266;
 }
 
 .wrapper {
@@ -18,7 +19,7 @@ h2 {
 
 h1, h2 {
   text-align: center;
-  color: #ffc857;
+  color: #ff9d00;
 }
 
 blockquote {
@@ -34,7 +35,7 @@ blockquote {
 }
 
 a {
-  color: #152266;
+
 }
 
 img {
