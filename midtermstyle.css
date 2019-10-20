@@ -15,16 +15,17 @@ body {
 
 h1 {
   margin-bottom: .5em;
+  color: #152266;
 }
 
 h2 {
   margin-bottom: .25em;
   margin-top: 1em;
+  color: #ff9d00;
 }
 
 h1, h2 {
   text-align: center;
-  color: #ff9d00;
 }
 
 blockquote {
@@ -80,5 +81,5 @@ footer {
 }
 
 #page-title {
-  text-shadow: 3px 2px #152266;
+  text-shadow: 3px 2px #ff9d00;
 }
