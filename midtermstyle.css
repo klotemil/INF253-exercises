@@ -18,10 +18,11 @@ h2 {
 
 h1, h2 {
   text-align: center;
+  color: #ffc857;
 }
 
 blockquote {
-  te
+
 }
 
 .image {
@@ -33,7 +34,7 @@ blockquote {
 }
 
 a {
-
+  color: #152266;
 }
 
 img {
