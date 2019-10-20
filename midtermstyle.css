@@ -7,7 +7,10 @@ body {
 
 .wrapper {
   background-color: #f1e9db;
-
+  width: 92%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 12px 20px;
 }
 
 h1 {
@@ -40,7 +43,7 @@ blockquote {
 }
 
 a {
-
+  color: #7b0d1e;
 }
 
 img {
@@ -62,5 +65,8 @@ header {
 }
 
 footer {
-
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  border-top: 2px solid #d2d2d2;
 }
