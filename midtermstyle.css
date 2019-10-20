@@ -2,7 +2,7 @@ body {
   text-align: center;
   background-color: #d10000;
   color: #152266;
-  font-family: times new roman, sans-serif;
+  font-family: times new roman, serif;
 }
 
 .wrapper {
@@ -60,6 +60,7 @@ ul {
 
 p {
   line-height: 1.4em;
+  font-size: 20px;
 }
 
 header {
