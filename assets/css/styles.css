@@ -93,18 +93,6 @@ aside h2 {
 }
 
 @media all and (min-width: 920px) {
-  article, aside{
-    float: left;
-  }
-
-  article {
-    width: 75%;
-    padding-right: 20px;
-  }
-
-  aside {
-    width: 25%;
-  }
   aside h2 {
     margin-top: 15px;
   }
