@@ -67,7 +67,7 @@ p {
 }
 
 header {
-  background-image: url(../images/interlaced.png);
+  background-image: url(../images/criss-cross.png);
   border-bottom: 2px solid #d2d2d2;
   text-align: center;
 }
@@ -94,4 +94,3 @@ aside h2 {
   aside h2 {
     margin-top: 15px;
   }
-}
