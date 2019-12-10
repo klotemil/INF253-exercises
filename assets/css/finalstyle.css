@@ -54,6 +54,7 @@ a {
 img {
   max-width: 50%;
   height: auto;
+  align-content: center;
 }
 
 ul {
