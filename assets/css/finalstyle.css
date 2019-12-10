@@ -7,7 +7,7 @@ body {
 }
 
 .wrapper {
-  background-color:
+  background-color: #ffffff;
   width: 92%;
   max-width: 800px;
   margin: 0 auto;
@@ -28,13 +28,13 @@ h2 {
 }
 
 h1, h2 {
-  color:
+  color: #0b4f6c;
 }
 
 blockquote {
-  border-left: 4px solid;
+  border-left: 4px solid #8B9AA5;
   padding: 12px;
-  background-color:
+  background-color: #f9f9f9;
   margin-left: 0;
   margin-right: 0;
 }
@@ -48,7 +48,7 @@ blockquote {
 }
 
 a {
-  color:
+  color: #7b0d1e;
 }
 
 img {
@@ -68,7 +68,7 @@ p {
 
 header {
   background-image: url(../images/interlaced.png);
-  border-bottom: 2px solid;
+  border-bottom: 2px solid #d2d2d2;
   text-align: center;
 }
 
@@ -79,7 +79,7 @@ header.wrapper {
 footer.wrapper {
   text-align: center;
   padding: 26px 20px;
-  border-top: 2px solid;
+  border-top: 2px solid #d2d2d2;
 }
 
 article {
